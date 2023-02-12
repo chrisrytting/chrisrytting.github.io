@@ -26,7 +26,8 @@ baseurl: ""
 title: "Christopher Michael Rytting"
 description: "This is my new website"
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: assets/name.png
+# logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
 # Pagination
 paginate: 5
@@ -36,12 +37,12 @@ paginate_path: blog/page:num
 navigation_header:
   - title: Home
     url: /
-  - title: Where Do we Come From?
-    url: /about/
-  - title: Why Are We Here?
-    url: /researchstatement/
-  - title: Where Are We Going?
-    url: /plans/
+  # - title: Where Do We Come From?
+  #   url: /about/
+  # - title: Why Are We Here?
+  #   url: /researchstatement/
+  # - title: Where Are We Going?
+  #   url: /plans/
   - title: Blog
     url: /blog/
 

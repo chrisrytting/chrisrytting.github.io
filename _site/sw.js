@@ -1,8 +1,8 @@
-const version = '20220804230915';
+const version = '20230212160521';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/2018/08/22/hello-world/","/about/","/categories/","/blog/","/","/researchstatement/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/2022/08/25/on-cost/","/2022/08/24/mavericks/","/2022/08/23/first-principles/","/2022/08/22/philosophers-v-practical/","/2018/08/22/hello-world/","/about/","/categories/","/blog/","/","/researchstatement/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/name.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
