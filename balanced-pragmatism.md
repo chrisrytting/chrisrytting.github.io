@@ -1,5 +1,5 @@
 ---
 permalink: /balanced-pragmatism
 redirect_to:
-  - https://658c1742708334f8de.gradio.live
+  - https://9e093aaae956e5cb1c.gradio.live/
 ---
