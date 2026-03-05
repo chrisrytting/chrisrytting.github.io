@@ -21,7 +21,7 @@ plugins:
   - jekyll-remote-theme
 
 # Site settings
-url: "https://mydomain.com"
+url: "https://chrisrytting.github.io"
 baseurl: ""
 title: "Christopher Michael Rytting"
 description: "This is my new website"
