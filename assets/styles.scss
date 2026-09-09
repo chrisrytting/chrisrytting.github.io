@@ -1,0 +1,21 @@
+---
+title: false
+styles: true
+---
+
+@import "alembic";
+
+// --- Local overrides -------------------------------------------------------
+
+// The theme pins the logo to `flex: 0 0 auto` with no max-width, so the
+// name image keeps its natural 548px width and overflows narrow screens.
+// Let it shrink to the viewport instead.
+.header .logo {
+  flex: 0 1 auto;
+  min-width: 0;
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
