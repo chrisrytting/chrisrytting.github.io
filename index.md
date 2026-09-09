@@ -3,7 +3,6 @@ title:
 feature_image: "https://picsum.photos/1300/400?image=989"
 # feature_image: "/assets/IMG_4989.jpeg"
 feature_text: "thanks for being here"
-hide_footer: true
 # feature_text: ![Alt text](/assets/IMG_4989.jpeg)
 ---
 

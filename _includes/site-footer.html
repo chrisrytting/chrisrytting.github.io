@@ -1,15 +1,6 @@
 {% comment %}
   Local override of the Alembic theme's site-footer.
-  Pages can opt out of the footer bar with `hide_footer: true` in front matter.
+  The site intentionally has no footer bar (copyright / back-to-top),
+  so this include renders nothing. Delete this file to restore the
+  theme's default footer.
 {% endcomment %}
-{% unless page.hide_footer %}
-<footer class="footer">
-  <div class="container">
-    <div class="copyright  typeset">
-      <small class="small">&copy; {{ site.title }} {{ site.time | date: '%Y' }}</small>
-    </div>
-
-    {% include nav-footer.html %}
-  </div>
-</footer>
-{% endunless %}
