@@ -23,10 +23,10 @@ plugins:
 # Site settings
 url: "https://chrisrytting.github.io"
 baseurl: ""
-title: "Christopher Michael Rytting"
-description: "This is my new website"
+title: "Chris Rytting"
+description: ""
 permalink: pretty
-logo: assets/name.png
+logo: /assets/name.png
 # logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
 # Pagination
