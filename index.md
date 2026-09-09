@@ -12,7 +12,7 @@ I believe each person is a being of infinite worth and potential.
 
 I'm working on AI that understands each of us so that it can help us achieve our deepest goals by surfacing all that we've already known and experienced.
 
-Previously, I cofounded [Laude Institute](https://www.laude.org/), did the earliest work in simulating human beings with language models, and some [other stuff](/assets/cv.pdf).
+Previously, I cofounded [Laude Institute](https://www.laude.org/), did the earliest work in [simulating human beings with language models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1n9W1mEAAAAJ&citation_for_view=1n9W1mEAAAAJ:ufrVoPGSRksC), and some [other stuff](/assets/cv.pdf).
 
 
 
