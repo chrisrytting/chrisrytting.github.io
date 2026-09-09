@@ -6,7 +6,7 @@ feature_text: "thanks for being here"
 # feature_text: ![Alt text](/assets/IMG_4989.jpeg)
 ---
 
-![Alt text](/assets/IMG_4989.jpeg)
+![Chris Rytting sitting on a porch beside a scruffy brown dog](/assets/IMG_4989.jpeg)
 
 I believe each person is a being of infinite worth and potential.
 
