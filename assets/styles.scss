@@ -26,3 +26,10 @@ styles: true
 .header .nav {
   flex: 0 0 auto;
 }
+
+// With the footer removed, the theme's 1.6rem margin was the only thing
+// between the last line of content and the bottom of the viewport.
+// Guarantee some breathing room on every page.
+.main {
+  padding-bottom: 4rem;
+}
