@@ -19,3 +19,10 @@ styles: true
     height: auto;
   }
 }
+
+// The header nav is `overflow: hidden`, so when the logo takes the whole
+// row the menu items get clipped mid-word ("Home" -> "ome"). Let the nav
+// keep its natural width and make the logo absorb the shrinking instead.
+.header .nav {
+  flex: 0 0 auto;
+}
